@@ -21,7 +21,8 @@ git add .
 
 git commit -m "[%date%] Update"
 
-git push
+:: git push
+git push https://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@github.com/rito26/rito26.github.io.git
 
 echo.======================
 echo. 깃헙 업로드 완료 !
