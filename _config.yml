@@ -111,7 +111,7 @@ defaults:
       breadcrumb:
         -
           label: Posts
-          url: /
+          url: /tabs/categories/
   -
     scope:
       path: _drafts
