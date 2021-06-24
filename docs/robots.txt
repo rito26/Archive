@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://rito26.github.io/sitemap.xml
+Sitemap: https://rito26.github.io/Portfolio/sitemap.xml
