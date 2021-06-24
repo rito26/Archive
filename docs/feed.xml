@@ -1,33 +1,33 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://rito26.github.io/Portfolio/</id>
+  <id>https://rito26.github.io/</id>
   <title>Rito15-Portfolio</title>
   <subtitle>Unity Csharp Developer</subtitle>
-  <updated>2021-06-25T03:16:34+09:00</updated>
+  <updated>2021-06-25T03:18:41+09:00</updated>
   <author>
     <name>Rito15</name>
-    <uri>https://rito26.github.io/Portfolio/</uri>
+    <uri>https://rito26.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://rito26.github.io/Portfolio/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://rito26.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://rito26.github.io/Portfolio/"/>
+    href="https://rito26.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
   <rights> © 2021 Rito15 </rights>
-  <icon>/Portfolio/assets/img/favicons/favicon.ico</icon>
-  <logo>/Portfolio/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
     <title>Solar Defence</title>
-    <link href="https://rito26.github.io/Portfolio/posts/game-solar-defence/" rel="alternate" type="text/html" title="Solar Defence" />
+    <link href="https://rito26.github.io/posts/game-solar-defence/" rel="alternate" type="text/html" title="Solar Defence" />
     <published>2020-06-02T15:00:00+09:00</published>
   
     <updated>2021-06-14T14:50:19+09:00</updated>
   
-    <id>https://rito26.github.io/Portfolio/posts/game-solar-defence/</id>
-    <content src="https://rito26.github.io/Portfolio/posts/game-solar-defence/" />
+    <id>https://rito26.github.io/posts/game-solar-defence/</id>
+    <content src="https://rito26.github.io/posts/game-solar-defence/" />
     <author>
       <name>Rito15</name>
     </author>
