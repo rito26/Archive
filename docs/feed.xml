@@ -4,7 +4,7 @@
   <id>https://rito26.github.io/Portfolio/</id>
   <title>Rito15-Portfolio</title>
   <subtitle>Unity Csharp Developer</subtitle>
-  <updated>2021-06-25T16:20:34+09:00</updated>
+  <updated>2021-06-25T16:21:35+09:00</updated>
   <author>
     <name>Rito15</name>
     <uri>https://rito26.github.io/Portfolio/</uri>
@@ -14,8 +14,8 @@
     href="https://rito26.github.io/Portfolio/"/>
   <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
   <rights> © 2021 Rito15 </rights>
-  <icon>/assets/img/favicons/favicon.ico</icon>
-  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/Portfolio/assets/img/favicons/favicon.ico</icon>
+  <logo>/Portfolio/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
