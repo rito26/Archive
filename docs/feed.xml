@@ -1,90 +1,22 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://rito26.github.io/Portfolio/</id>
+  <id>https://rito26.github.io/Archive/</id>
   <title>Rito15-Portfolio</title>
   <subtitle>Unity Csharp Developer</subtitle>
-  <updated>2021-06-25T16:21:35+09:00</updated>
+  <updated>2022-12-19T21:34:47+09:00</updated>
   <author>
     <name>Rito15</name>
-    <uri>https://rito26.github.io/Portfolio/</uri>
+    <uri>https://rito26.github.io/Archive/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://rito26.github.io/Portfolio/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://rito26.github.io/Archive/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://rito26.github.io/Portfolio/"/>
+    href="https://rito26.github.io/Archive/"/>
   <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
-  <rights> © 2021 Rito15 </rights>
-  <icon>/Portfolio/assets/img/favicons/favicon.ico</icon>
-  <logo>/Portfolio/assets/img/favicons/favicon-96x96.png</logo>
+  <rights> © 2022 Rito15 </rights>
+  <icon>/Archive/assets/img/favicons/favicon.ico</icon>
+  <logo>/Archive/assets/img/favicons/favicon-96x96.png</logo>
 
-
-  
-  <entry>
-    <title>Solar Defence</title>
-    <link href="https://rito26.github.io/Portfolio/posts/game-solar-defence/" rel="alternate" type="text/html" title="Solar Defence" />
-    <published>2020-06-02T15:00:00+09:00</published>
-  
-    <updated>2021-06-14T14:50:19+09:00</updated>
-  
-    <id>https://rito26.github.io/Portfolio/posts/game-solar-defence/</id>
-    <content src="https://rito26.github.io/Portfolio/posts/game-solar-defence/" />
-    <author>
-      <name>Rito15</name>
-    </author>
-
-  
-    
-    <category term="My Games" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      게임 소개
-
-
-[1] 게임 정보
-
-[2] 스크린샷
-
-[3] 플레이 영상
-
-
-
-===========================================================
-[초고] - 좀 줄여야 할듯?
-
-남녀노소, 누구나 즐길 수 있는 게임을 만들고 싶었습니다.
-
-그래서 고려한 것들은 다음과 같습니다.
-
-
-
-[1] 이해하기에 어렵지 않아야 한다
-
-게임을 즐기는데 있어서, 심지어 전연령층을 대상으로 하는 게임이라면
-
-가장 지양해야할 것은 깊은 이해와 학습을 요구하는 것이라고 생각했습니다.
-
-별다른 설명이 없어도, 게임을 시작하고 그 화면을 보았을 때,
-
-게임의 방법과 목표가 한 눈에 들어오는 게임을 만들고자 하였습니다.
-
-
-
-[2] 그저 단순해서는 안된다
-
-‘화면을 터치하면 일정 범위 내의 ...
-    </summary>
-  
-
-  </entry>
 
 </feed>
 
