@@ -4,7 +4,7 @@
   <id>https://rito26.github.io/Archive/</id>
   <title>Archive</title>
   <subtitle>Archive</subtitle>
-  <updated>2022-12-19T23:15:34+09:00</updated>
+  <updated>2022-12-19T23:16:14+09:00</updated>
   <author>
     <name>Rito15</name>
     <uri>https://rito26.github.io/Archive/</uri>
@@ -24,7 +24,7 @@
     <link href="https://rito26.github.io/Archive/posts/design-documents/" rel="alternate" type="text/html" title="기획 문서 목록" />
     <published>2022-12-19T22:39:09+09:00</published>
   
-    <updated>2022-12-19T22:39:09+09:00</updated>
+    <updated>2022-12-19T23:15:41+09:00</updated>
   
     <id>https://rito26.github.io/Archive/posts/design-documents/</id>
     <content src="https://rito26.github.io/Archive/posts/design-documents/" />
@@ -46,10 +46,7 @@
 
 
 
-      기획 문서 목록
-
-
-[1] 일정 계획서
+      [1] 일정 계획서
 
 
   프로젝트 전체 진행, 기획, 개발, 테스트, 배포 등 일정 관리
@@ -97,7 +94,8 @@
 [6] 기능 명세서/프로그램 사양서
 
 
-  기능 코드 부...
+  기능 코드 부여
+  구현해야 하는...
     </summary>
   
 
