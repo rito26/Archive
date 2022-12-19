@@ -4,7 +4,7 @@
   <id>https://rito26.github.io/Archive/</id>
   <title>Archive</title>
   <subtitle>Archive</subtitle>
-  <updated>2022-12-19T21:36:22+09:00</updated>
+  <updated>2022-12-19T23:12:41+09:00</updated>
   <author>
     <name>Rito15</name>
     <uri>https://rito26.github.io/Archive/</uri>
@@ -17,6 +17,91 @@
   <icon>/Archive/assets/img/favicons/favicon.ico</icon>
   <logo>/Archive/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>기획 문서 목록</title>
+    <link href="https://rito26.github.io/Archive/posts/design-documents/" rel="alternate" type="text/html" title="기획 문서 목록" />
+    <published>2022-12-19T22:39:09+09:00</published>
+  
+    <updated>2022-12-19T22:39:09+09:00</updated>
+  
+    <id>https://rito26.github.io/Archive/posts/design-documents/</id>
+    <content src="https://rito26.github.io/Archive/posts/design-documents/" />
+    <author>
+      <name>Rito15</name>
+    </author>
+
+  
+    
+    <category term="Design" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      기획 문서 목록
+
+
+[1] 일정 계획서
+
+
+  프로젝트 전체 진행, 기획, 개발, 테스트, 배포 등 일정 관리
+
+
+
+
+[2] 요구사항 정의서
+
+
+  요건 코드 부여
+  개발 필요사항, 요건 정의
+
+
+
+
+**[3] 정보 구조도(IA, Information Architecture)
+
+
+  전체 시스템 구조를 한 눈에 파악할 수 있도록 시각화/문서화
+  다이어그램, 도표 등 활용
+
+
+
+
+[4] 스토리보드/화면설계서
+
+
+  화면의 기초적 구성, 전체 흐름 구조화
+  플로우차트를 활용하여 전체 흐름 설계
+  와이어프레임으로 화면을 구성하여 화면 요소 설계
+
+
+
+
+[5] UI/UX 설계서
+
+
+  UI 화면 코드 부여
+  각 화면의 세부 UI, 동작 정의
+
+
+
+
+[6] 기능 명세서/프로그램 사양서
+
+
+  기능 코드...
+    </summary>
+  
+
+  </entry>
 
 </feed>
 
