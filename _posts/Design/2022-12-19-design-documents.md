@@ -26,7 +26,7 @@ mermaid: true
 <br>
 
 
-## **[3] 정보 구조도(IA, Information Architecture)
+## **[3] 정보 구조도(IA, Information Architecture)**
 
 - 전체 시스템 구조를 한 눈에 파악할 수 있도록 시각화/문서화
 - 다이어그램, 도표 등 활용
