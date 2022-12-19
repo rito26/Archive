@@ -4,7 +4,7 @@
   <id>https://rito26.github.io/Archive/</id>
   <title>Archive</title>
   <subtitle>Archive</subtitle>
-  <updated>2022-12-19T23:16:14+09:00</updated>
+  <updated>2022-12-19T23:18:02+09:00</updated>
   <author>
     <name>Rito15</name>
     <uri>https://rito26.github.io/Archive/</uri>
@@ -24,7 +24,7 @@
     <link href="https://rito26.github.io/Archive/posts/design-documents/" rel="alternate" type="text/html" title="기획 문서 목록" />
     <published>2022-12-19T22:39:09+09:00</published>
   
-    <updated>2022-12-19T23:15:41+09:00</updated>
+    <updated>2022-12-19T23:16:22+09:00</updated>
   
     <id>https://rito26.github.io/Archive/posts/design-documents/</id>
     <content src="https://rito26.github.io/Archive/posts/design-documents/" />
@@ -52,8 +52,6 @@
   프로젝트 전체 진행, 기획, 개발, 테스트, 배포 등 일정 관리
 
 
-
-
 [2] 요구사항 정의서
 
 
@@ -61,15 +59,11 @@
   개발 필요사항, 요건 정의
 
 
-
-
 [3] 정보 구조도(IA, Information Architecture)
 
 
   전체 시스템 구조를 한 눈에 파악할 수 있도록 시각화/문서화
   다이어그램, 도표 등 활용
-
-
 
 
 [4] 스토리보드/화면설계서
@@ -80,8 +74,6 @@
   와이어프레임으로 화면을 구성하여 화면 요소 설계
 
 
-
-
 [5] UI/UX 설계서
 
 
@@ -89,13 +81,11 @@
   각 화면의 세부 UI, 동작 정의
 
 
-
-
 [6] 기능 명세서/프로그램 사양서
 
 
   기능 코드 부여
-  구현해야 하는...
+  구현해야 하는 기능에 대한 상세...
     </summary>
   
 
