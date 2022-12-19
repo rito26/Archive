@@ -8,12 +8,12 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
 
-title: Rito15-Portfolio
+title: Archive
 
-tagline: Unity Csharp Developer
+tagline: Archive
 
 description: >-                        # used by seo meta and the atom feed
-  Unity Csharp Developer
+  Archive
 
 url: 'https://rito26.github.io'
 baseurl: '/Archive'
@@ -21,13 +21,13 @@ baseurl: '/Archive'
 author: Rito15 
 
 github:
-  username: rito15
+  username: nobody
 
 social:
-  name: Rito15 
-  email: ghdtkals15@gmail.com 
+  name: nobody
+  email: none@none.none
   links:
-    - https://github.com/rito15 
+    - https://nope 
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
