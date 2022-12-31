@@ -41,6 +41,15 @@ mermaid: true
 
 <br>
 
+
+# 5번줄과 3번줄의 관계
+---
+- 5번줄 `n`프렛과 3번줄 `n + 2` 프렛의 음은 같다.
+
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20221231_35-same.png)
+
+<br>
+
  
 # 6번줄과 5번줄의 관계
 --- 
