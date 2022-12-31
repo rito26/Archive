@@ -45,15 +45,21 @@ echo.math: true >> %strFileDir%
 echo.mermaid: true >> %strFileDir%
 echo.--- >> %strFileDir%
 
-echo. >> %strFileDir%
+echo.>> %strFileDir%
 echo.# >> %strFileDir%
 echo.--- >> %strFileDir%
-echo. >> %strFileDir%
+echo.>> %strFileDir%
 echo.## >> %strFileDir%
-echo. >> %strFileDir%
-echo. >> %strFileDir%
-echo. >> %strFileDir%
+echo.>> %strFileDir%
+echo.>> %strFileDir%
+echo.>> %strFileDir%
 echo.^<!------------------------------------------------------------------^> >> %strFileDir%
+
+echo.>> %strFileDir%
+echo.# References>> %strFileDir%
+echo.--- >> %strFileDir%
+echo.- ^<^> >> %strFileDir%
+echo.>> %strFileDir%
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 echo. %strFileDir% 파일 생성 완료 !

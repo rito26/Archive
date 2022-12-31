@@ -2,7 +2,7 @@
 title: 기획 문서 목록 
 author: rito26 
 date: 2022-12-19 22:39:09 +09:00 
-categories: [Design] 
+categories: [Product Design] 
 tags: [] 
 math: true 
 mermaid: true 
