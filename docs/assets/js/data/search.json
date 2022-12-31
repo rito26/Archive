@@ -1,9 +1,24 @@
 [
   
   {
+    "title": "기타 음 쉽게 찾기",
+    "url": "/Archive/posts/easily-find-scales/",
+    "categories": "Guitar, Tip",
+    "tags": "",
+    "date": "2022-12-31 16:38:43 +0900",
+    
+
+
+
+
+
+    "snippet": "참고개방현과 15프렛의 관계  개방현의 음(1번줄부터 6번줄까지 E-B-G-D-A-E)은 15프렛의 음과 같다. (한옥타브 차이)6번줄과 1번줄의 관계  같은 프렛 내에서 6번줄과 1번줄은 같은 음이다.6번줄과 4번줄의 관계  6번줄 n프렛과 4번줄 n + 2 프렛의 음은 같다.6번줄과 5번줄의 관계      3프렛부터 12프렛까지만 해당        같은 프렛 내에서 6번줄의 음을 온음으로 3개 올리면 5번줄의 음이다.        예: 8프렛 6번줄 도 -&amp;gt; +3 -&amp;gt; 파 -&amp;gt; 8프렛 ..."
+  },
+  
+  {
     "title": "기획 문서 목록",
     "url": "/Archive/posts/design-documents/",
-    "categories": "Design",
+    "categories": "Product Design",
     "tags": "",
     "date": "2022-12-19 22:39:09 +0900",
     

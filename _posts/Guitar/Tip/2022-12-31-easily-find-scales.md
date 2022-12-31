@@ -10,7 +10,7 @@ mermaid: true
 
 # 참고
 ---
-![image](https://github.com/rito26/Archive/blob/main/_images/20221231_165030_guitar.jpg)
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20221231_165030_guitar.jpg)
 
 <br>
 
@@ -19,7 +19,7 @@ mermaid: true
 ---
 - 개방현의 음(1번줄부터 6번줄까지 E-B-G-D-A-E)은 15프렛의 음과 같다. (한옥타브 차이)
 
-![image](https://github.com/rito26/Archive/blob/main/_images/20221231_pret-0-15-same.png)
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20221231_pret-0-15-same.png)
 
 <br>
 
@@ -28,7 +28,7 @@ mermaid: true
 ---
 - 같은 프렛 내에서 6번줄과 1번줄은 같은 음이다.
 
-![image](https://github.com/rito26/Archive/blob/main/_images/20221231_16-same.png)
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20221231_16-same.png)
 
 <br>
 
@@ -37,7 +37,7 @@ mermaid: true
 ---
 - 6번줄 `n`프렛과 4번줄 `n + 2` 프렛의 음은 같다.
 
-![image](https://github.com/rito26/Archive/blob/main/_images/20221231_46-same.png)
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20221231_46-same.png)
 
 <br>
 
@@ -50,7 +50,7 @@ mermaid: true
 
 - 예: 8프렛 6번줄 `도` -> +3 -> `파` -> 8프렛 5번줄
 
-![image](https://github.com/rito26/Archive/blob/main/_images/20221231_56-same.png)
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20221231_56-same.png)
 
 <br>
 
@@ -58,7 +58,7 @@ mermaid: true
 # 도레미파솔라시도 (C 메이저 스케일)
 ---
 
-![image](https://github.com/rito26/Archive/blob/main/_images/20221231_c-major-scales.png)
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20221231_c-major-scales.png)
 
 <br>
 

@@ -4,7 +4,7 @@
   <id>https://rito26.github.io/Archive/</id>
   <title>Archive</title>
   <subtitle>Archive</subtitle>
-  <updated>2022-12-19T23:18:02+09:00</updated>
+  <updated>2022-12-31T17:21:50+09:00</updated>
   <author>
     <name>Rito15</name>
     <uri>https://rito26.github.io/Archive/</uri>
@@ -20,11 +20,113 @@
 
   
   <entry>
+    <title>기타 음 쉽게 찾기</title>
+    <link href="https://rito26.github.io/Archive/posts/easily-find-scales/" rel="alternate" type="text/html" title="기타 음 쉽게 찾기" />
+    <published>2022-12-31T16:38:43+09:00</published>
+  
+    <updated>2022-12-31T17:19:21+09:00</updated>
+  
+    <id>https://rito26.github.io/Archive/posts/easily-find-scales/</id>
+    <content src="https://rito26.github.io/Archive/posts/easily-find-scales/" />
+    <author>
+      <name>Rito15</name>
+    </author>
+
+  
+    
+    <category term="Guitar" />
+    
+    <category term="Tip" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      참고
+
+
+
+
+
+개방현과 15프렛의 관계
+
+
+  개방현의 음(1번줄부터 6번줄까지 E-B-G-D-A-E)은 15프렛의 음과 같다. (한옥타브 차이)
+
+
+
+
+
+
+6번줄과 1번줄의 관계
+
+
+  같은 프렛 내에서 6번줄과 1번줄은 같은 음이다.
+
+
+
+
+
+
+6번줄과 4번줄의 관계
+
+
+  6번줄 n프렛과 4번줄 n + 2 프렛의 음은 같다.
+
+
+
+
+
+
+6번줄과 5번줄의 관계
+
+
+  
+    3프렛부터 12프렛까지만 해당
+  
+  
+    같은 프렛 내에서 6번줄의 음을 온음으로 3개 올리면 5번줄의 음이다.
+  
+  
+    예: 8프렛 6번줄 도 -&amp;gt; +3 -&amp;gt; 파 -&amp;gt; 8프렛 5번줄
+  
+
+
+
+
+
+
+도레미파솔라시도 (C 메이저 스케일)
+
+
+
+
+
+
+
+
+References
+
+
+  https://w...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>기획 문서 목록</title>
     <link href="https://rito26.github.io/Archive/posts/design-documents/" rel="alternate" type="text/html" title="기획 문서 목록" />
     <published>2022-12-19T22:39:09+09:00</published>
   
-    <updated>2022-12-19T23:16:22+09:00</updated>
+    <updated>2022-12-19T22:39:09+09:00</updated>
   
     <id>https://rito26.github.io/Archive/posts/design-documents/</id>
     <content src="https://rito26.github.io/Archive/posts/design-documents/" />
@@ -34,7 +136,7 @@
 
   
     
-    <category term="Design" />
+    <category term="Product Design" />
     
   
 
