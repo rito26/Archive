@@ -4,7 +4,7 @@
   <id>https://rito26.github.io/Archive/</id>
   <title>Archive</title>
   <subtitle>Archive</subtitle>
-  <updated>2022-12-31T17:48:39+09:00</updated>
+  <updated>2023-01-03T00:20:55+09:00</updated>
   <author>
     <name>Rito15</name>
     <uri>https://rito26.github.io/Archive/</uri>
@@ -13,10 +13,213 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="https://rito26.github.io/Archive/"/>
   <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
-  <rights> © 2022 Rito15 </rights>
+  <rights> © 2023 Rito15 </rights>
   <icon>/Archive/assets/img/favicons/favicon.ico</icon>
   <logo>/Archive/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>블록체인이란?</title>
+    <link href="https://rito26.github.io/Archive/posts/what-is-blockchain/" rel="alternate" type="text/html" title="블록체인이란?" />
+    <published>2023-01-02T21:25:17+09:00</published>
+  
+    <updated>2023-01-02T21:25:17+09:00</updated>
+  
+    <id>https://rito26.github.io/Archive/posts/what-is-blockchain/</id>
+    <content src="https://rito26.github.io/Archive/posts/what-is-blockchain/" />
+    <author>
+      <name>Rito15</name>
+    </author>
+
+  
+    
+    <category term="Knowledge" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      블록체인(Blockchain)
+
+
+블록체인의 기본 개념
+
+  블록(Block)이 서로 연결된 데이터베이스
+
+
+블록체인의 특징
+
+  블록은 편집, 제거가 불가능하고, 추가(Append)만 가능하다.
+  즉, 추가만 가능한 데이터베이스
+  탈중앙화
+
+
+탈중앙화(Decentralization)
+
+  특정 개인이 DB를 관리할 수 없다.
+  모두가 DB의 복제본을 갖고, 서로가 가진 데이터의 진위성을 검증한다.
+  블록을 채굴하는 모두가 DB의 사본을 가지므로, 중앙화된 서버가 필요 없다.
+
+
+
+
+블록(Block)
+
+
+블록
+
+  블록체인에 데이터는 그냥 저장될 수 없고, 블록 형태로만 저장될 수 있다.
+
+
+블록의 구성 요소
+
+  데이터
+    
+      의미있는 정보(예: 비트코인의 경우 트랜잭션(거래 내역...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>이더리움이란?</title>
+    <link href="https://rito26.github.io/Archive/posts/what-is-ethereum/" rel="alternate" type="text/html" title="이더리움이란?" />
+    <published>2023-01-02T19:46:06+09:00</published>
+  
+    <updated>2023-01-02T19:46:06+09:00</updated>
+  
+    <id>https://rito26.github.io/Archive/posts/what-is-ethereum/</id>
+    <content src="https://rito26.github.io/Archive/posts/what-is-ethereum/" />
+    <author>
+      <name>Rito15</name>
+    </author>
+
+  
+    
+    <category term="Knowledge" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      비트코인과 이더리움
+
+
+비트코인
+
+  화폐
+  거래만 가능
+
+
+이더리움
+
+  화폐 + 계약
+  계약 : 스마트 컨트랙트
+  스마트 컨트랙트로 인해 다양하게 활용 가능
+
+
+스마트 컨트랙트
+
+  어떤 조건이 충족되면 가상화폐가 자동이체 되도록 함
+
+
+
+
+References
+
+
+  &amp;lt;&amp;gt;
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>NFT란?</title>
+    <link href="https://rito26.github.io/Archive/posts/what-is-nft/" rel="alternate" type="text/html" title="NFT란?" />
+    <published>2023-01-02T19:44:56+09:00</published>
+  
+    <updated>2023-01-02T19:44:56+09:00</updated>
+  
+    <id>https://rito26.github.io/Archive/posts/what-is-nft/</id>
+    <content src="https://rito26.github.io/Archive/posts/what-is-nft/" />
+    <author>
+      <name>Rito15</name>
+    </author>
+
+  
+    
+    <category term="Knowledge" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      토큰(Token)
+
+
+토큰
+
+  블록체인 상에 저장된 데이터
+
+
+토큰 발행 방법
+
+  2가지 기능을 갖고 있는 스마트 컨트랙트를 만든다.
+    
+      1. 돈을 받으면 2. 토큰을 보내준다.
+    
+  
+
+
+토큰의 NFT로의 확장
+
+  딱 한 개의 토큰만 유니크하게 발행하는 스마트 컨트랙트를 만든다.
+  그 토큰에는 이미지, 게임 아이템, … 등등 NFT의 대상 애셋을 넣는다.
+
+
+
+
+스마트 컨트랙트(Smart Contract)
+
+
+스마트 컨트랙트
+
+  서면으로만 이루어지던 계약을 코드로 구현하고, 특정 조건이 충족되었을 때 계약이 이행되도록 하는 스크립트
+  블록체인과는 서로 독립적인 개념이었음
+
+
+이더리움에서의 스마트 컨트랙트
+
+  Solidity, Vyper와 같은 전용 언어를 통해 계약...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -24,7 +227,7 @@
     <link href="https://rito26.github.io/Archive/posts/easily-find-scales/" rel="alternate" type="text/html" title="기타 음 쉽게 찾기" />
     <published>2022-12-31T16:38:43+09:00</published>
   
-    <updated>2022-12-31T17:38:03+09:00</updated>
+    <updated>2022-12-31T17:48:48+09:00</updated>
   
     <id>https://rito26.github.io/Archive/posts/easily-find-scales/</id>
     <content src="https://rito26.github.io/Archive/posts/easily-find-scales/" />
