@@ -2,7 +2,7 @@
 title: 이더리움이란? 
 author: rito26 
 date: 2023-01-02 19:46:06 +09:00 
-categories: [Knowledge] 
+categories: [Blockchain] 
 tags: [] 
 math: true 
 mermaid: true 

@@ -1,9 +1,54 @@
 [
   
   {
+    "title": "블록체인 관련 요소들 직접 구현하기",
+    "url": "/Archive/posts/implement-blockchain-contents-myself/",
+    "categories": "Blockchain",
+    "tags": "",
+    "date": "2023-01-03 22:33:23 +0900",
+    
+
+
+
+
+
+    "snippet": "NFT 마켓 만들기  https://xiubindev.tistory.com/134암호화폐 지갑 만들기  https://velog.io/@vamprodo47/암호화폐-지갑-개발이더리움 지갑 만들기이더리움 입문  https://www.inflearn.com/course/ethereum-bible#curriculumReferences  &amp;lt;&amp;gt;"
+  },
+  
+  {
+    "title": "암호화폐 지갑과 코인 거래",
+    "url": "/Archive/posts/what-is-crypto-wallet/",
+    "categories": "Blockchain",
+    "tags": "",
+    "date": "2023-01-03 21:12:23 +0900",
+    
+
+
+
+
+
+    "snippet": "암호화폐 거래소유와 거래의 개념  블록체인 네트워크의 암호화폐를 소유한다는 것은 내가 실제로 무언가를 갖고 있는 것이 아니라,그저 해당 암호화폐에 내 정보(지갑 주소 등)를 기입하는 것을 의미한다.  거래도 마찬가지로 해당 암호화폐 내의 데이터에 명시된 소유자 정보를 변경하는 것을 뜻한다.암호화폐 지갑(Crypto Wallet)암호화폐 지갑이란?  해당 블록체인 네트워크에서 코인, 토큰 등의 자산에 ‘소유자 정보’로 등록할 수 있는긴 해시 문자열을 의미한다.  정확히는 ‘지갑의 주소’지갑의 생성  비대칭적 암호화(Asymmet..."
+  },
+  
+  {
+    "title": "스마트컨트랙트란?",
+    "url": "/Archive/posts/what-is-smart-contract/",
+    "categories": "Blockchain",
+    "tags": "",
+    "date": "2023-01-03 20:38:36 +0900",
+    
+
+
+
+
+
+    "snippet": "스마트 컨트랙트(Smart Contract)의의  사용자끼리 단순히 거래만 가능하던 비트코인에 비해,이더리움에 처음 도입된 스마트 컨트랙트는 사용자간의 상호작용을 가능하게 한다.  따라서 이를 기반으로 수많은 활용 방안과 분야들이 탄생했다.설명  이더리움 가상 머신(EVM) 위에서 동작하는 바이트코드  등록한 이벤트의 발생을 인식하여 지정된 동작을 수행한다.  Solidity와 같은 전용 언어를 통해 개발한다.활용  스마트 컨트랙트에 돈을 지불하면 지정된 NFT를 구매자에게 전송하도록 구현한다.=&amp;gt; NFT 거래 기..."
+  },
+  
+  {
     "title": "블록체인이란?",
     "url": "/Archive/posts/what-is-blockchain/",
-    "categories": "Knowledge",
+    "categories": "Blockchain",
     "tags": "",
     "date": "2023-01-02 21:25:17 +0900",
     
@@ -18,7 +63,7 @@
   {
     "title": "이더리움이란?",
     "url": "/Archive/posts/what-is-ethereum/",
-    "categories": "Knowledge",
+    "categories": "Blockchain",
     "tags": "",
     "date": "2023-01-02 19:46:06 +0900",
     
@@ -33,7 +78,7 @@
   {
     "title": "NFT란?",
     "url": "/Archive/posts/what-is-nft/",
-    "categories": "Knowledge",
+    "categories": "Blockchain",
     "tags": "",
     "date": "2023-01-02 19:44:56 +0900",
     

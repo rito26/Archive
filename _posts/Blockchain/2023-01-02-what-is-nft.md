@@ -2,7 +2,7 @@
 title: NFT란? 
 author: rito26 
 date: 2023-01-02 19:44:56 +09:00 
-categories: [Knowledge] 
+categories: [Blockchain] 
 tags: [] 
 math: true 
 mermaid: true 
@@ -158,6 +158,13 @@ mermaid: true
 - 또 다른 예시로, 어떤 이미지에 대한 NFT가 존재하는지 여부를 아주 간편하고 빠르게 확인할 수 있는가?
 - 그리고 이미지가 아닌, 모든 NFT화 가능 애셋에 대해서도 동일하게 동작할 수 있는가?
 
+
+# 해결
+---
+- 저작권 문제는 NFT화 이전에 발생하는 문제이므로 별개
+- 동일 대상에 대한 중복 NFT 발행도 역시 NFT와는 별개로 실제 세계에서 해결해야 할 문제 (Scam)
+- 대상 자산의 소유권을 소유자가 인정받은 상태에서 NFT화를 하는 것이 기본 개념
+
 </details>
 <!------------------------------------------------------------------> 
 <!------------------------------------------------------------------> 
@@ -172,5 +179,6 @@ mermaid: true
 - <https://www.youtube.com/watch?v=IEOsoUiT_30>
 - <https://medium.com/haechi-audit-kr/smart-contract-a-to-z-79ebc04d6c86>
 - <https://bolly-in-london.tistory.com/entry/NFT-마켓-플레이스-비교-Polygon이란-폴리곤-NFT의-장단점>
+- <https://twig.money/post/454>
 - <>
 

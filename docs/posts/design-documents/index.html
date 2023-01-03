@@ -736,6 +736,45 @@
   
 
   
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
     
 
 
@@ -789,7 +828,7 @@
       
       
       <div class="card">
-        <a href="/Archive/posts/what-is-blockchain/">
+        <a href="/Archive/posts/implement-blockchain-contents-myself/">
           <div class="card-body">
             <!--
   Date format snippet
@@ -806,13 +845,13 @@
   
 
   
-    Jan  2
+    Jan  3
   
 
-  <i class="unloaded">2023-01-02T21:25:17+09:00</i>
+  <i class="unloaded">2023-01-03T22:33:23+09:00</i>
 
 </span>
-            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>블록체인이란?</h3>
+            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>블록체인 관련 요소들 직접 구현하기</h3>
             <div class="text-muted small">
               <p>
                 
@@ -821,25 +860,30 @@
 
 
 
-                블록체인(Blockchain)
+                NFT 마켓 만들기
 
 
-블록체인의 기본 개념
-
-  블록(Block)이 서로 연결된 데이터베이스
+  https://xiubindev.tistory.com/134
 
 
-블록체인의 특징
-
-  블록은 편집, 제거가 불가능하고, 추가(Append)만 가능하다.
-  즉, 추가만 가능한 데이터베이스
-  탈중앙화
+암호화폐 지갑 만들기
 
 
-탈중앙화(Decentralization)
+  https://velog.io/@vamprodo47/암호화폐-지갑-개발
 
-  특정 개인이 DB를 관리할 수 없다.
-  모두가 DB의 복...
+
+이더리움 지갑 만들기
+
+
+이더리움 입문
+
+
+  https://www.inflearn.com/course/ethereum-bible#curriculum
+
+
+
+
+...
               </p>
             </div>
           </div>
@@ -849,7 +893,7 @@
       
       
       <div class="card">
-        <a href="/Archive/posts/what-is-ethereum/">
+        <a href="/Archive/posts/what-is-crypto-wallet/">
           <div class="card-body">
             <!--
   Date format snippet
@@ -866,13 +910,13 @@
   
 
   
-    Jan  2
+    Jan  3
   
 
-  <i class="unloaded">2023-01-02T19:46:06+09:00</i>
+  <i class="unloaded">2023-01-03T21:12:23+09:00</i>
 
 </span>
-            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>이더리움이란?</h3>
+            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>암호화폐 지갑과 코인 거래</h3>
             <div class="text-muted small">
               <p>
                 
@@ -881,36 +925,20 @@
 
 
 
-                비트코인과 이더리움
+                암호화폐 거래
 
 
-비트코인
+소유와 거래의 개념
 
-  화폐
-  거래만 가능
-
-
-이더리움
-
-  화폐 + 계약
-  계약 : 스마트 컨트랙트
-  스마트 컨트랙트로 인해 다양하게 활용 가능
-
-
-스마트 컨트랙트
-
-  어떤 조건이 충족되면 가상화폐가 자동이체 되도록 함
+  블록체인 네트워크의 암호화폐를 소유한다는 것은 내가 실제로 무언가를 갖고 있는 것이 아니라,
+그저 해당 암호화폐에 내 정보(지갑 주소 등)를 기입하는 것을 의미한다.
+  거래도 마찬가지로 해당 암호화폐 내의 데이터에 명시된 소유자 정보를 변경하는 것을 뜻한다.
 
 
 
 
-References
-
-
-  &lt;&gt;
-
-
-
+암호화폐 지갑(Crypto Wallet)
+...
               </p>
             </div>
           </div>
@@ -920,7 +948,7 @@ References
       
       
       <div class="card">
-        <a href="/Archive/posts/what-is-nft/">
+        <a href="/Archive/posts/what-is-smart-contract/">
           <div class="card-body">
             <!--
   Date format snippet
@@ -937,13 +965,13 @@ References
   
 
   
-    Jan  2
+    Jan  3
   
 
-  <i class="unloaded">2023-01-02T19:44:56+09:00</i>
+  <i class="unloaded">2023-01-03T20:38:36+09:00</i>
 
 </span>
-            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>NFT란?</h3>
+            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>스마트컨트랙트란?</h3>
             <div class="text-muted small">
               <p>
                 
@@ -952,27 +980,20 @@ References
 
 
 
-                토큰(Token)
+                스마트 컨트랙트(Smart Contract)
 
 
-토큰
+의의
 
-  블록체인 상에 저장된 데이터
-
-
-토큰 발행 방법
-
-  2가지 기능을 갖고 있는 스마트 컨트랙트를 만든다.
-    
-      1. 돈을 받으면 2. 토큰을 보내준다.
-    
-  
+  사용자끼리 단순히 거래만 가능하던 비트코인에 비해,
+이더리움에 처음 도입된 스마트 컨트랙트는 사용자간의 상호작용을 가능하게 한다.
+  따라서 이를 기반으로 수많은 활용 방안과 분야들이 탄생했다.
 
 
-토큰의 NFT로의 확장
+설명
 
-  딱 한 개의 토큰만 유니크하게 발행하는 스마트 컨트랙트를 만든다.
-  그 토큰에는 이미지, 게임 아이템, …...
+  이더리움 가상 머신(EVM) 위에서 동작하는 바이트코드
+  등록한 이벤트의 발생을 인...
               </p>
             </div>
           </div>

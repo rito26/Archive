@@ -2,7 +2,7 @@
 title: 블록체인이란?
 author: rito26 
 date: 2023-01-02 21:25:17 +09:00 
-categories: [Knowledge] 
+categories: [Blockchain] 
 tags: [] 
 math: true 
 mermaid: true 

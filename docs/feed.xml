@@ -4,7 +4,7 @@
   <id>https://rito26.github.io/Archive/</id>
   <title>Archive</title>
   <subtitle>Archive</subtitle>
-  <updated>2023-01-03T00:20:55+09:00</updated>
+  <updated>2023-01-04T01:24:14+09:00</updated>
   <author>
     <name>Rito15</name>
     <uri>https://rito26.github.io/Archive/</uri>
@@ -17,6 +17,189 @@
   <icon>/Archive/assets/img/favicons/favicon.ico</icon>
   <logo>/Archive/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>블록체인 관련 요소들 직접 구현하기</title>
+    <link href="https://rito26.github.io/Archive/posts/implement-blockchain-contents-myself/" rel="alternate" type="text/html" title="블록체인 관련 요소들 직접 구현하기" />
+    <published>2023-01-03T22:33:23+09:00</published>
+  
+    <updated>2023-01-03T22:33:23+09:00</updated>
+  
+    <id>https://rito26.github.io/Archive/posts/implement-blockchain-contents-myself/</id>
+    <content src="https://rito26.github.io/Archive/posts/implement-blockchain-contents-myself/" />
+    <author>
+      <name>Rito15</name>
+    </author>
+
+  
+    
+    <category term="Blockchain" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      NFT 마켓 만들기
+
+
+  https://xiubindev.tistory.com/134
+
+
+암호화폐 지갑 만들기
+
+
+  https://velog.io/@vamprodo47/암호화폐-지갑-개발
+
+
+이더리움 지갑 만들기
+
+
+이더리움 입문
+
+
+  https://www.inflearn.com/course/ethereum-bible#curriculum
+
+
+
+
+References
+
+
+  &amp;lt;&amp;gt;
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>암호화폐 지갑과 코인 거래</title>
+    <link href="https://rito26.github.io/Archive/posts/what-is-crypto-wallet/" rel="alternate" type="text/html" title="암호화폐 지갑과 코인 거래" />
+    <published>2023-01-03T21:12:23+09:00</published>
+  
+    <updated>2023-01-03T21:12:23+09:00</updated>
+  
+    <id>https://rito26.github.io/Archive/posts/what-is-crypto-wallet/</id>
+    <content src="https://rito26.github.io/Archive/posts/what-is-crypto-wallet/" />
+    <author>
+      <name>Rito15</name>
+    </author>
+
+  
+    
+    <category term="Blockchain" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      암호화폐 거래
+
+
+소유와 거래의 개념
+
+  블록체인 네트워크의 암호화폐를 소유한다는 것은 내가 실제로 무언가를 갖고 있는 것이 아니라,
+그저 해당 암호화폐에 내 정보(지갑 주소 등)를 기입하는 것을 의미한다.
+  거래도 마찬가지로 해당 암호화폐 내의 데이터에 명시된 소유자 정보를 변경하는 것을 뜻한다.
+
+
+
+
+암호화폐 지갑(Crypto Wallet)
+
+
+암호화폐 지갑이란?
+
+  해당 블록체인 네트워크에서 코인, 토큰 등의 자산에 ‘소유자 정보’로 등록할 수 있는
+긴 해시 문자열을 의미한다.
+  정확히는 ‘지갑의 주소’
+
+
+지갑의 생성
+
+  비대칭적 암호화(Asymmetric encryption)을 통해 생성된다.
+  다시 말해, 공개키(Public key)와 개인키(Private Key)의 개념이다.
+...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>스마트컨트랙트란?</title>
+    <link href="https://rito26.github.io/Archive/posts/what-is-smart-contract/" rel="alternate" type="text/html" title="스마트컨트랙트란?" />
+    <published>2023-01-03T20:38:36+09:00</published>
+  
+    <updated>2023-01-03T20:38:36+09:00</updated>
+  
+    <id>https://rito26.github.io/Archive/posts/what-is-smart-contract/</id>
+    <content src="https://rito26.github.io/Archive/posts/what-is-smart-contract/" />
+    <author>
+      <name>Rito15</name>
+    </author>
+
+  
+    
+    <category term="Blockchain" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      스마트 컨트랙트(Smart Contract)
+
+
+의의
+
+  사용자끼리 단순히 거래만 가능하던 비트코인에 비해,
+이더리움에 처음 도입된 스마트 컨트랙트는 사용자간의 상호작용을 가능하게 한다.
+  따라서 이를 기반으로 수많은 활용 방안과 분야들이 탄생했다.
+
+
+설명
+
+  이더리움 가상 머신(EVM) 위에서 동작하는 바이트코드
+  등록한 이벤트의 발생을 인식하여 지정된 동작을 수행한다.
+  Solidity와 같은 전용 언어를 통해 개발한다.
+
+
+활용
+
+  스마트 컨트랙트에 돈을 지불하면 지정된 NFT를 구매자에게 전송하도록 구현한다.
+=&amp;gt; NFT 거래 기능의 기본
+
+
+특징
+
+  투명하고 신뢰 가능한 블록체인 네트워크 내에서 이벤트 기반 동작을 수행하는 봇을 만들 수 있다.
+  모두가 공유, 검증, 실행...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -34,7 +217,7 @@
 
   
     
-    <category term="Knowledge" />
+    <category term="Blockchain" />
     
   
 
@@ -104,7 +287,7 @@
 
   
     
-    <category term="Knowledge" />
+    <category term="Blockchain" />
     
   
 
@@ -146,249 +329,6 @@ References
 
 
 
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>NFT란?</title>
-    <link href="https://rito26.github.io/Archive/posts/what-is-nft/" rel="alternate" type="text/html" title="NFT란?" />
-    <published>2023-01-02T19:44:56+09:00</published>
-  
-    <updated>2023-01-02T19:44:56+09:00</updated>
-  
-    <id>https://rito26.github.io/Archive/posts/what-is-nft/</id>
-    <content src="https://rito26.github.io/Archive/posts/what-is-nft/" />
-    <author>
-      <name>Rito15</name>
-    </author>
-
-  
-    
-    <category term="Knowledge" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      토큰(Token)
-
-
-토큰
-
-  블록체인 상에 저장된 데이터
-
-
-토큰 발행 방법
-
-  2가지 기능을 갖고 있는 스마트 컨트랙트를 만든다.
-    
-      1. 돈을 받으면 2. 토큰을 보내준다.
-    
-  
-
-
-토큰의 NFT로의 확장
-
-  딱 한 개의 토큰만 유니크하게 발행하는 스마트 컨트랙트를 만든다.
-  그 토큰에는 이미지, 게임 아이템, … 등등 NFT의 대상 애셋을 넣는다.
-
-
-
-
-스마트 컨트랙트(Smart Contract)
-
-
-스마트 컨트랙트
-
-  서면으로만 이루어지던 계약을 코드로 구현하고, 특정 조건이 충족되었을 때 계약이 이행되도록 하는 스크립트
-  블록체인과는 서로 독립적인 개념이었음
-
-
-이더리움에서의 스마트 컨트랙트
-
-  Solidity, Vyper와 같은 전용 언어를 통해 계약...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>기타 음 쉽게 찾기</title>
-    <link href="https://rito26.github.io/Archive/posts/easily-find-scales/" rel="alternate" type="text/html" title="기타 음 쉽게 찾기" />
-    <published>2022-12-31T16:38:43+09:00</published>
-  
-    <updated>2022-12-31T17:48:48+09:00</updated>
-  
-    <id>https://rito26.github.io/Archive/posts/easily-find-scales/</id>
-    <content src="https://rito26.github.io/Archive/posts/easily-find-scales/" />
-    <author>
-      <name>Rito15</name>
-    </author>
-
-  
-    
-    <category term="Guitar" />
-    
-    <category term="Tip" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      참고
-
-
-
-
-
-개방현과 15프렛의 관계
-
-
-  개방현의 음(1번줄부터 6번줄까지 E-B-G-D-A-E)은 15프렛의 음과 같다. (한옥타브 차이)
-
-
-
-
-
-
-6번줄과 1번줄의 관계
-
-
-  같은 프렛 내에서 6번줄과 1번줄은 같은 음이다.
-
-
-
-
-
-
-6번줄과 4번줄의 관계
-
-
-  6번줄 n프렛과 4번줄 n + 2 프렛의 음은 같다.
-
-
-
-
-
-
-5번줄과 3번줄의 관계
-
-
-  5번줄 n프렛과 3번줄 n + 2 프렛의 음은 같다.
-
-
-
-
-
-
-6번줄과 5번줄의 관계
-
-
-  
-    3프렛부터 12프렛까지만 해당
-  
-  
-    같은 프렛 내에서 6번줄의 음을 온음으로 3개 올리면 5번줄의 음이다.
-  
-  
-    예: 8프렛 6번줄 도 -&amp;gt; +3 -&amp;gt; 파 -&amp;gt; 8프렛 5번줄
-  
-
-
-
-
-
-
-...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>기획 문서 목록</title>
-    <link href="https://rito26.github.io/Archive/posts/design-documents/" rel="alternate" type="text/html" title="기획 문서 목록" />
-    <published>2022-12-19T22:39:09+09:00</published>
-  
-    <updated>2022-12-19T22:39:09+09:00</updated>
-  
-    <id>https://rito26.github.io/Archive/posts/design-documents/</id>
-    <content src="https://rito26.github.io/Archive/posts/design-documents/" />
-    <author>
-      <name>Rito15</name>
-    </author>
-
-  
-    
-    <category term="Product Design" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      [1] 일정 계획서
-
-
-  프로젝트 전체 진행, 기획, 개발, 테스트, 배포 등 일정 관리
-
-
-[2] 요구사항 정의서
-
-
-  요건 코드 부여
-  개발 필요사항, 요건 정의
-
-
-[3] 정보 구조도(IA, Information Architecture)
-
-
-  전체 시스템 구조를 한 눈에 파악할 수 있도록 시각화/문서화
-  다이어그램, 도표 등 활용
-
-
-[4] 스토리보드/화면설계서
-
-
-  화면의 기초적 구성, 전체 흐름 구조화
-  플로우차트를 활용하여 전체 흐름 설계
-  와이어프레임으로 화면을 구성하여 화면 요소 설계
-
-
-[5] UI/UX 설계서
-
-
-  UI 화면 코드 부여
-  각 화면의 세부 UI, 동작 정의
-
-
-[6] 기능 명세서/프로그램 사양서
-
-
-  기능 코드 부여
-  구현해야 하는 기능에 대한 상세...
     </summary>
   
 
