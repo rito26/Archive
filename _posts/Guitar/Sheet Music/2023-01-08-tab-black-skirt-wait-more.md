@@ -1,5 +1,5 @@
 --- 
-title: [TAB] 검정치마 - 기다린만큼 더 
+title: (TAB) 검정치마 - 기다린만큼 더 
 author: rito26 
 date: 2023-01-08 21:45:15 +09:00 
 categories: [Guitar, Sheet Music] 

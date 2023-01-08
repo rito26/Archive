@@ -4,7 +4,7 @@
   <id>https://rito26.github.io/Archive/</id>
   <title>Archive</title>
   <subtitle>Archive</subtitle>
-  <updated>2023-01-04T01:24:14+09:00</updated>
+  <updated>2023-01-08T21:46:55+09:00</updated>
   <author>
     <name>Rito15</name>
     <uri>https://rito26.github.io/Archive/</uri>
@@ -17,6 +17,55 @@
   <icon>/Archive/assets/img/favicons/favicon.ico</icon>
   <logo>/Archive/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>(TAB) 검정치마 - 기다린만큼 더</title>
+    <link href="https://rito26.github.io/Archive/posts/tab-black-skirt-wait-more/" rel="alternate" type="text/html" title="(TAB) 검정치마 - 기다린만큼 더" />
+    <published>2023-01-08T21:45:15+09:00</published>
+  
+    <updated>2023-01-08T21:45:15+09:00</updated>
+  
+    <id>https://rito26.github.io/Archive/posts/tab-black-skirt-wait-more/</id>
+    <content src="https://rito26.github.io/Archive/posts/tab-black-skirt-wait-more/" />
+    <author>
+      <name>Rito15</name>
+    </author>
+
+  
+    
+    <category term="Guitar" />
+    
+    <category term="Sheet Music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      악보
+
+
+
+
+
+
+References
+
+
+  https://www.youtube.com/watch?v=lVd06i-r7Lk
+  https://www.youtube.com/watch?v=x171oalkeAw
+
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -266,69 +315,6 @@ References
   데이터
     
       의미있는 정보(예: 비트코인의 경우 트랜잭션(거래 내역...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>이더리움이란?</title>
-    <link href="https://rito26.github.io/Archive/posts/what-is-ethereum/" rel="alternate" type="text/html" title="이더리움이란?" />
-    <published>2023-01-02T19:46:06+09:00</published>
-  
-    <updated>2023-01-02T19:46:06+09:00</updated>
-  
-    <id>https://rito26.github.io/Archive/posts/what-is-ethereum/</id>
-    <content src="https://rito26.github.io/Archive/posts/what-is-ethereum/" />
-    <author>
-      <name>Rito15</name>
-    </author>
-
-  
-    
-    <category term="Blockchain" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      비트코인과 이더리움
-
-
-비트코인
-
-  화폐
-  거래만 가능
-
-
-이더리움
-
-  화폐 + 계약
-  계약 : 스마트 컨트랙트
-  스마트 컨트랙트로 인해 다양하게 활용 가능
-
-
-스마트 컨트랙트
-
-  어떤 조건이 충족되면 가상화폐가 자동이체 되도록 함
-
-
-
-
-References
-
-
-  &amp;lt;&amp;gt;
-
-
-
     </summary>
   
 
