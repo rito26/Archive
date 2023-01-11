@@ -4,7 +4,7 @@
   <id>https://rito26.github.io/Archive/</id>
   <title>Archive</title>
   <subtitle>Archive</subtitle>
-  <updated>2023-01-08T21:46:55+09:00</updated>
+  <updated>2023-01-11T23:03:37+09:00</updated>
   <author>
     <name>Rito15</name>
     <uri>https://rito26.github.io/Archive/</uri>
@@ -20,11 +20,131 @@
 
   
   <entry>
+    <title>이더리움 Web3js API 정리</title>
+    <link href="https://rito26.github.io/Archive/posts/ethereum-web3js-api/" rel="alternate" type="text/html" title="이더리움 Web3js API 정리" />
+    <published>2023-01-11T22:20:21+09:00</published>
+  
+    <updated>2023-01-11T22:20:21+09:00</updated>
+  
+    <id>https://rito26.github.io/Archive/posts/ethereum-web3js-api/</id>
+    <content src="https://rito26.github.io/Archive/posts/ethereum-web3js-api/" />
+    <author>
+      <name>Rito15</name>
+    </author>
+
+  
+    
+    <category term="Blockchain" />
+    
+    <category term="Ethereum" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      References
+
+
+  https://ihpark92.tistory.com/44
+  https://web3js.readthedocs.io/en/v1.8.1/index.html
+  https://www.jongho.dev/blockchain/ethereum-transaction/
+  https://steemit.com/kr/@brownbears/ethereum-account-transaction-message
+
+
+
+
+
+Web3 객체 생성
+
+
+  https://web3js.readthedocs.io/en/v1.8.1/web3.html#web3-instance
+
+
+
+  
+…
+
+
+  //const web3 = new Web3(provider);
+const web3 = new Web3(new Web3.pro...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>이더리움 트랜잭션</title>
+    <link href="https://rito26.github.io/Archive/posts/ethereum-transaction/" rel="alternate" type="text/html" title="이더리움 트랜잭션" />
+    <published>2023-01-10T22:11:56+09:00</published>
+  
+    <updated>2023-01-10T22:11:56+09:00</updated>
+  
+    <id>https://rito26.github.io/Archive/posts/ethereum-transaction/</id>
+    <content src="https://rito26.github.io/Archive/posts/ethereum-transaction/" />
+    <author>
+      <name>Rito15</name>
+    </author>
+
+  
+    
+    <category term="Blockchain" />
+    
+    <category term="Ethereum" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      References
+
+
+개념
+
+  https://steemit.com/busy/@anpigon/ethereum-3
+  https://lbm93.tistory.com/7
+
+
+구현 정보
+
+  https://betterprogramming.pub/how-to-send-ethereum-transactions-using-web3-d05e0c95f820
+  https://velog.io/@hb707/이더리움-web3
+  https://web3js.readthedocs.io/en/v1.2.11/web3-eth.html#id84
+
+
+
+
+이더리움 트랜잭션 기초
+
+
+개념
+
+  트랜잭션(Transactions)은 외부 소유 계정(EOA)에서 생성되어 이더리움 블록체인에 기록된 서명된 메시지다.
+  트랜잭션을 통해서만 이더...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>(TAB) 검정치마 - 기다린만큼 더</title>
     <link href="https://rito26.github.io/Archive/posts/tab-black-skirt-wait-more/" rel="alternate" type="text/html" title="(TAB) 검정치마 - 기다린만큼 더" />
     <published>2023-01-08T21:45:15+09:00</published>
   
-    <updated>2023-01-08T21:45:15+09:00</updated>
+    <updated>2023-01-08T21:47:01+09:00</updated>
   
     <id>https://rito26.github.io/Archive/posts/tab-black-skirt-wait-more/</id>
     <content src="https://rito26.github.io/Archive/posts/tab-black-skirt-wait-more/" />
@@ -69,14 +189,14 @@ References
 
   
   <entry>
-    <title>블록체인 관련 요소들 직접 구현하기</title>
-    <link href="https://rito26.github.io/Archive/posts/implement-blockchain-contents-myself/" rel="alternate" type="text/html" title="블록체인 관련 요소들 직접 구현하기" />
-    <published>2023-01-03T22:33:23+09:00</published>
+    <title>이더리움 네트워크 메모</title>
+    <link href="https://rito26.github.io/Archive/posts/ethereum-network/" rel="alternate" type="text/html" title="이더리움 네트워크 메모" />
+    <published>2023-01-07T22:00:43+09:00</published>
   
-    <updated>2023-01-03T22:33:23+09:00</updated>
+    <updated>2023-01-07T22:00:43+09:00</updated>
   
-    <id>https://rito26.github.io/Archive/posts/implement-blockchain-contents-myself/</id>
-    <content src="https://rito26.github.io/Archive/posts/implement-blockchain-contents-myself/" />
+    <id>https://rito26.github.io/Archive/posts/ethereum-network/</id>
+    <content src="https://rito26.github.io/Archive/posts/ethereum-network/" />
     <author>
       <name>Rito15</name>
     </author>
@@ -84,6 +204,8 @@ References
   
     
     <category term="Blockchain" />
+    
+    <category term="Ethereum" />
     
   
 
@@ -95,36 +217,36 @@ References
 
 
 
-      NFT 마켓 만들기
+      이더리움 개발자 도구 참조
 
 
-  https://xiubindev.tistory.com/134
-
-
-암호화폐 지갑 만들기
-
-
-  https://velog.io/@vamprodo47/암호화폐-지갑-개발
-
-
-이더리움 지갑 만들기
-
-
-이더리움 입문
-
-
-  https://www.inflearn.com/course/ethereum-bible#curriculum
+  https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README_Korean.md
 
 
 
 
-References
+이더리움 노드
 
 
-  &amp;lt;&amp;gt;
+  https://decenter.kr/NewsView/1S3K86FE60
+  https://velog.io/@adc0612/블록체인-노드Node-종류
 
 
 
+
+노드(Node)
+
+  이더리움 클라이언트를 구동하는 이더리움 네트워크에 있는 컴퓨터
+  채굴, 트랜잭션 검증을 수행한다.
+
+
+
+
+풀 노드(Full Node)
+
+  블록체인에서 이뤄진 모든 거래정보를 전부 저장하는 노드
+  제네시스(가장 처음) 블록부터 시작해서 현재 블록까지 모든 블록체인 정보를 수집, 저장한다.
+  자신의 PC에 모...
     </summary>
   
 
@@ -132,14 +254,14 @@ References
 
   
   <entry>
-    <title>암호화폐 지갑과 코인 거래</title>
-    <link href="https://rito26.github.io/Archive/posts/what-is-crypto-wallet/" rel="alternate" type="text/html" title="암호화폐 지갑과 코인 거래" />
-    <published>2023-01-03T21:12:23+09:00</published>
+    <title>이더리움 Geth 설치</title>
+    <link href="https://rito26.github.io/Archive/posts/ethereum-geth-install/" rel="alternate" type="text/html" title="이더리움 Geth 설치" />
+    <published>2023-01-05T22:22:22+09:00</published>
   
-    <updated>2023-01-03T21:12:23+09:00</updated>
+    <updated>2023-01-05T22:22:22+09:00</updated>
   
-    <id>https://rito26.github.io/Archive/posts/what-is-crypto-wallet/</id>
-    <content src="https://rito26.github.io/Archive/posts/what-is-crypto-wallet/" />
+    <id>https://rito26.github.io/Archive/posts/ethereum-geth-install/</id>
+    <content src="https://rito26.github.io/Archive/posts/ethereum-geth-install/" />
     <author>
       <name>Rito15</name>
     </author>
@@ -147,6 +269,8 @@ References
   
     
     <category term="Blockchain" />
+    
+    <category term="Ethereum" />
     
   
 
@@ -158,163 +282,45 @@ References
 
 
 
-      암호화폐 거래
+      Geth 설치
 
 
-소유와 거래의 개념
-
-  블록체인 네트워크의 암호화폐를 소유한다는 것은 내가 실제로 무언가를 갖고 있는 것이 아니라,
-그저 해당 암호화폐에 내 정보(지갑 주소 등)를 기입하는 것을 의미한다.
-  거래도 마찬가지로 해당 암호화폐 내의 데이터에 명시된 소유자 정보를 변경하는 것을 뜻한다.
+  https://bitkunst.tistory.com/entry/Ethereum이더리움-개발-환경-세팅
 
 
 
 
-암호화폐 지갑(Crypto Wallet)
+[1] WSL2 &amp;amp; 우분투 설치
 
-
-암호화폐 지갑이란?
-
-  해당 블록체인 네트워크에서 코인, 토큰 등의 자산에 ‘소유자 정보’로 등록할 수 있는
-긴 해시 문자열을 의미한다.
-  정확히는 ‘지갑의 주소’
-
-
-지갑의 생성
-
-  비대칭적 암호화(Asymmetric encryption)을 통해 생성된다.
-  다시 말해, 공개키(Public key)와 개인키(Private Key)의 개념이다.
-...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>스마트컨트랙트란?</title>
-    <link href="https://rito26.github.io/Archive/posts/what-is-smart-contract/" rel="alternate" type="text/html" title="스마트컨트랙트란?" />
-    <published>2023-01-03T20:38:36+09:00</published>
-  
-    <updated>2023-01-03T20:38:36+09:00</updated>
-  
-    <id>https://rito26.github.io/Archive/posts/what-is-smart-contract/</id>
-    <content src="https://rito26.github.io/Archive/posts/what-is-smart-contract/" />
-    <author>
-      <name>Rito15</name>
-    </author>
-
-  
-    
-    <category term="Blockchain" />
-    
-  
-
-  
-    <summary>
-      
+  ㅇ
 
 
 
 
-
-      스마트 컨트랙트(Smart Contract)
-
-
-의의
-
-  사용자끼리 단순히 거래만 가능하던 비트코인에 비해,
-이더리움에 처음 도입된 스마트 컨트랙트는 사용자간의 상호작용을 가능하게 한다.
-  따라서 이를 기반으로 수많은 활용 방안과 분야들이 탄생했다.
+[2] Go 설치
+sudo apt update
+sudo apt install golang
 
 
-설명
 
-  이더리움 가상 머신(EVM) 위에서 동작하는 바이트코드
-  등록한 이벤트의 발생을 인식하여 지정된 동작을 수행한다.
-  Solidity와 같은 전용 언어를 통해 개발한다.
+  Geth 설치용 추가 명령어
 
 
-활용
-
-  스마트 컨트랙트에 돈을 지불하면 지정된 NFT를 구매자에게 전송하도록 구현한다.
-=&amp;gt; NFT 거래 기능의 기본
+sudo apt install -y libgmp3-dev tree make build-essential
 
 
-특징
 
-  투명하고 신뢰 가능한 블록체인 네트워크 내에서 이벤트 기반 동작을 수행하는 봇을 만들 수 있다.
-  모두가 공유, 검증, 실행...
-    </summary>
-  
+  go version으로 버전을 확인하여, 1.4 미만일 경우에만 아래 명령어 실행
 
-  </entry>
 
-  
-  <entry>
-    <title>블록체인이란?</title>
-    <link href="https://rito26.github.io/Archive/posts/what-is-blockchain/" rel="alternate" type="text/html" title="블록체인이란?" />
-    <published>2023-01-02T21:25:17+09:00</published>
-  
-    <updated>2023-01-02T21:25:17+09:00</updated>
-  
-    <id>https://rito26.github.io/Archive/posts/what-is-blockchain/</id>
-    <content src="https://rito26.github.io/Archive/posts/what-is-blockchain/" />
-    <author>
-      <name>Rito15</name>
-    </author>
-
-  
-    
-    <category term="Blockchain" />
-    
-  
-
-  
-    <summary>
-      
+git clone https://github.com/udhos/update-golang
+sudo update-golang/update-golang.sh
 
 
 
 
-
-      블록체인(Blockchain)
-
-
-블록체인의 기본 개념
-
-  블록(Block)이 서로 연결된 데이터베이스
-
-
-블록체인의 특징
-
-  블록은 편집, 제거가 불가능하고, 추가(Append)만 가능하다.
-  즉, 추가만 가능한 데이터베이스
-  탈중앙화
-
-
-탈중앙화(Decentralization)
-
-  특정 개인이 DB를 관리할 수 없다.
-  모두가 DB의 복제본을 갖고, 서로가 가진 데이터의 진위성을 검증한다.
-  블록을 채굴하는 모두가 DB의 사본을 가지므로, 중앙화된 서버가 필요 없다.
-
-
-
-
-블록(Block)
-
-
-블록
-
-  블록체인에 데이터는 그냥 저장될 수 없고, 블록 형태로만 저장될 수 있다.
-
-
-블록의 구성 요소
-
-  데이터
-    
-      의미있는 정보(예: 비트코인의 경우 트랜잭션(거래 내역...
+[3] Geth 설치
+git clon...
     </summary>
   
 
