@@ -4,7 +4,7 @@
   <id>https://rito26.github.io/Archive/</id>
   <title>Archive</title>
   <subtitle>Archive</subtitle>
-  <updated>2023-01-11T23:03:37+09:00</updated>
+  <updated>2023-01-21T21:37:58+09:00</updated>
   <author>
     <name>Rito15</name>
     <uri>https://rito26.github.io/Archive/</uri>
@@ -17,6 +17,48 @@
   <icon>/Archive/assets/img/favicons/favicon.ico</icon>
   <logo>/Archive/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>(TAB) 울면 안돼</title>
+    <link href="https://rito26.github.io/Archive/posts/tab-santa-claus-is-coming-to-town/" rel="alternate" type="text/html" title="(TAB) 울면 안돼" />
+    <published>2023-01-21T21:37:07+09:00</published>
+  
+    <updated>2023-01-21T21:37:07+09:00</updated>
+  
+    <id>https://rito26.github.io/Archive/posts/tab-santa-claus-is-coming-to-town/</id>
+    <content src="https://rito26.github.io/Archive/posts/tab-santa-claus-is-coming-to-town/" />
+    <author>
+      <name>Rito15</name>
+    </author>
+
+  
+    
+    <category term="Guitar" />
+    
+    <category term="Sheet Music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      악보
+
+
+
+
+
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -247,80 +289,6 @@ References
   블록체인에서 이뤄진 모든 거래정보를 전부 저장하는 노드
   제네시스(가장 처음) 블록부터 시작해서 현재 블록까지 모든 블록체인 정보를 수집, 저장한다.
   자신의 PC에 모...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>이더리움 Geth 설치</title>
-    <link href="https://rito26.github.io/Archive/posts/ethereum-geth-install/" rel="alternate" type="text/html" title="이더리움 Geth 설치" />
-    <published>2023-01-05T22:22:22+09:00</published>
-  
-    <updated>2023-01-05T22:22:22+09:00</updated>
-  
-    <id>https://rito26.github.io/Archive/posts/ethereum-geth-install/</id>
-    <content src="https://rito26.github.io/Archive/posts/ethereum-geth-install/" />
-    <author>
-      <name>Rito15</name>
-    </author>
-
-  
-    
-    <category term="Blockchain" />
-    
-    <category term="Ethereum" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Geth 설치
-
-
-  https://bitkunst.tistory.com/entry/Ethereum이더리움-개발-환경-세팅
-
-
-
-
-[1] WSL2 &amp;amp; 우분투 설치
-
-  ㅇ
-
-
-
-
-[2] Go 설치
-sudo apt update
-sudo apt install golang
-
-
-
-  Geth 설치용 추가 명령어
-
-
-sudo apt install -y libgmp3-dev tree make build-essential
-
-
-
-  go version으로 버전을 확인하여, 1.4 미만일 경우에만 아래 명령어 실행
-
-
-git clone https://github.com/udhos/update-golang
-sudo update-golang/update-golang.sh
-
-
-
-
-[3] Geth 설치
-git clon...
     </summary>
   
 
