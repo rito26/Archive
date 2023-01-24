@@ -4,7 +4,7 @@
   <id>https://rito26.github.io/Archive/</id>
   <title>Archive</title>
   <subtitle>Archive</subtitle>
-  <updated>2023-01-21T21:37:58+09:00</updated>
+  <updated>2023-01-24T19:23:52+09:00</updated>
   <author>
     <name>Rito15</name>
     <uri>https://rito26.github.io/Archive/</uri>
@@ -17,6 +17,96 @@
   <icon>/Archive/assets/img/favicons/favicon.ico</icon>
   <logo>/Archive/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>기타 연주 가능 곡 목록</title>
+    <link href="https://rito26.github.io/Archive/posts/current-guitar-playable-list/" rel="alternate" type="text/html" title="기타 연주 가능 곡 목록" />
+    <published>2023-01-24T19:17:38+09:00</published>
+  
+    <updated>2023-01-24T19:17:38+09:00</updated>
+  
+    <id>https://rito26.github.io/Archive/posts/current-guitar-playable-list/</id>
+    <content src="https://rito26.github.io/Archive/posts/current-guitar-playable-list/" />
+    <author>
+      <name>Rito15</name>
+    </author>
+
+  
+    
+    <category term="Guitar" />
+    
+    <category term="Current" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      목록
+
+
+Romance
+
+  1절
+
+
+Falling Slowly(Glan Hansard)
+
+  1절
+
+
+금요일에 만나요(아이유)
+
+  인트로 ~ A파트
+
+
+Officially Missing You(긱스)
+
+  반복파트: 전체
+
+
+그땐 미처 알지 못했지(이적)
+
+  1절, 2절 반복
+
+
+Shape of My Heart(Sting)
+
+  반복파트: 전체
+
+
+희곡(스파이 패밀리)
+
+  앞부분
+
+
+기다린 만큼 더(검정치마)
+
+  
+    
+      
+        
+          24 ~
+        
+      
+    
+  
+  악보 첫 페이지
+
+
+
+
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -224,71 +314,6 @@ References
   https://www.youtube.com/watch?v=x171oalkeAw
 
 
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>이더리움 네트워크 메모</title>
-    <link href="https://rito26.github.io/Archive/posts/ethereum-network/" rel="alternate" type="text/html" title="이더리움 네트워크 메모" />
-    <published>2023-01-07T22:00:43+09:00</published>
-  
-    <updated>2023-01-07T22:00:43+09:00</updated>
-  
-    <id>https://rito26.github.io/Archive/posts/ethereum-network/</id>
-    <content src="https://rito26.github.io/Archive/posts/ethereum-network/" />
-    <author>
-      <name>Rito15</name>
-    </author>
-
-  
-    
-    <category term="Blockchain" />
-    
-    <category term="Ethereum" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      이더리움 개발자 도구 참조
-
-
-  https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README_Korean.md
-
-
-
-
-이더리움 노드
-
-
-  https://decenter.kr/NewsView/1S3K86FE60
-  https://velog.io/@adc0612/블록체인-노드Node-종류
-
-
-
-
-노드(Node)
-
-  이더리움 클라이언트를 구동하는 이더리움 네트워크에 있는 컴퓨터
-  채굴, 트랜잭션 검증을 수행한다.
-
-
-
-
-풀 노드(Full Node)
-
-  블록체인에서 이뤄진 모든 거래정보를 전부 저장하는 노드
-  제네시스(가장 처음) 블록부터 시작해서 현재 블록까지 모든 블록체인 정보를 수집, 저장한다.
-  자신의 PC에 모...
     </summary>
   
 
