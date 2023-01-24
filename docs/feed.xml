@@ -4,7 +4,7 @@
   <id>https://rito26.github.io/Archive/</id>
   <title>Archive</title>
   <subtitle>Archive</subtitle>
-  <updated>2023-01-24T19:46:28+09:00</updated>
+  <updated>2023-01-24T19:47:31+09:00</updated>
   <author>
     <name>Rito15</name>
     <uri>https://rito26.github.io/Archive/</uri>
@@ -24,7 +24,7 @@
     <link href="https://rito26.github.io/Archive/posts/current-guitar-playable-list/" rel="alternate" type="text/html" title="기타 연주 가능 곡 목록" />
     <published>2023-01-24T19:17:38+09:00</published>
   
-    <updated>2023-01-24T19:26:27+09:00</updated>
+    <updated>2023-01-24T19:46:42+09:00</updated>
   
     <id>https://rito26.github.io/Archive/posts/current-guitar-playable-list/</id>
     <content src="https://rito26.github.io/Archive/posts/current-guitar-playable-list/" />
@@ -51,7 +51,7 @@
       1. 반주(코드)
 
 
-너에게 난 나에게 넌
+[1] 너에게 난 나에게 넌
 
   반복파트: A, B
 
@@ -61,37 +61,37 @@
 2. 반주(핑거스타일)
 
 
-Romance
+[1] Romance
 
   1절
 
 
-Falling Slowly(Glan Hansard)
+[2] Falling Slowly(Glan Hansard)
 
   1절
 
 
-그땐 미처 알지 못했지(이적)
+[3] 그땐 미처 알지 못했지(이적)
 
   1절, 2절 반복
 
 
-Officially Missing You(긱스)
+[4] Officially Missing You(긱스)
 
   반복파트: 전체
 
 
-금요일에 만나요(아이유)
+[5] 금요일에 만나요(아이유)
 
   인트로, 반복파트
 
 
-Shape of My Heart(Sting)
+[6] Shape of My Heart(Sting)
 
   반복파트: 전체
 
 
-기다린 만큼 더(검정치마)
+[7] 기다린 만큼 더(검정치마)
 
   2023. 01. 24 ~
   악보 첫 페이지
@@ -102,7 +102,7 @@ Shape of My Heart(Sting)
 3. 멜로디(핑거스타일)
 
 
-희곡(스파이 패밀리)
+[1] 희곡(스파이 패밀리)
 
   앞부분
 
@@ -121,7 +121,7 @@ Shape of My Heart(Sting)
     <link href="https://rito26.github.io/Archive/posts/tab-santa-claus-is-coming-to-town/" rel="alternate" type="text/html" title="(TAB) 울면 안돼" />
     <published>2023-01-21T21:37:07+09:00</published>
   
-    <updated>2023-01-21T21:37:07+09:00</updated>
+    <updated>2023-01-24T19:46:42+09:00</updated>
   
     <id>https://rito26.github.io/Archive/posts/tab-santa-claus-is-coming-to-town/</id>
     <content src="https://rito26.github.io/Archive/posts/tab-santa-claus-is-coming-to-town/" />
@@ -163,7 +163,7 @@ Shape of My Heart(Sting)
     <link href="https://rito26.github.io/Archive/posts/ethereum-web3js-api/" rel="alternate" type="text/html" title="이더리움 Web3js API 정리" />
     <published>2023-01-11T22:20:21+09:00</published>
   
-    <updated>2023-01-11T22:20:21+09:00</updated>
+    <updated>2023-01-24T19:46:42+09:00</updated>
   
     <id>https://rito26.github.io/Archive/posts/ethereum-web3js-api/</id>
     <content src="https://rito26.github.io/Archive/posts/ethereum-web3js-api/" />
@@ -223,7 +223,7 @@ const web3 = new Web3(new Web3.pro...
     <link href="https://rito26.github.io/Archive/posts/ethereum-transaction/" rel="alternate" type="text/html" title="이더리움 트랜잭션" />
     <published>2023-01-10T22:11:56+09:00</published>
   
-    <updated>2023-01-10T22:11:56+09:00</updated>
+    <updated>2023-01-24T19:46:42+09:00</updated>
   
     <id>https://rito26.github.io/Archive/posts/ethereum-transaction/</id>
     <content src="https://rito26.github.io/Archive/posts/ethereum-transaction/" />
@@ -283,7 +283,7 @@ const web3 = new Web3(new Web3.pro...
     <link href="https://rito26.github.io/Archive/posts/tab-black-skirt-wait-more/" rel="alternate" type="text/html" title="(TAB) 검정치마 - 기다린만큼 더" />
     <published>2023-01-08T21:45:15+09:00</published>
   
-    <updated>2023-01-08T21:47:01+09:00</updated>
+    <updated>2023-01-24T19:46:42+09:00</updated>
   
     <id>https://rito26.github.io/Archive/posts/tab-black-skirt-wait-more/</id>
     <content src="https://rito26.github.io/Archive/posts/tab-black-skirt-wait-more/" />
