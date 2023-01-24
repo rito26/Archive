@@ -4,8 +4,8 @@ author: rito26
 date: 2023-01-03 20:38:36 +09:00 
 categories: [Blockchain] 
 tags: [] 
-math: true 
-mermaid: true 
+math: false
+mermaid: false
 --- 
 
 # 스마트 컨트랙트(Smart Contract)

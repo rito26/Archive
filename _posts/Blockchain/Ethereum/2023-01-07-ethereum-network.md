@@ -4,8 +4,8 @@ author: rito26
 date: 2023-01-07 22:00:43 +09:00 
 categories: [Blockchain, Ethereum] 
 tags: [] 
-math: true 
-mermaid: true 
+math: false
+mermaid: false
 --- 
 
 

@@ -4,8 +4,8 @@ author: rito26
 date: 2023-01-02 21:25:17 +09:00 
 categories: [Blockchain] 
 tags: [] 
-math: true 
-mermaid: true 
+math: false
+mermaid: false
 --- 
 
 # 블록체인(Blockchain)

@@ -4,8 +4,8 @@ author: rito26
 date: 2023-01-02 19:44:56 +09:00 
 categories: [Blockchain] 
 tags: [] 
-math: true 
-mermaid: true 
+math: false
+mermaid: false
 --- 
 
 

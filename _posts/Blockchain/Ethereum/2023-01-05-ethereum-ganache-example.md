@@ -4,8 +4,8 @@ author: rito26
 date: 2023-01-05 22:00:00 +09:00 
 categories: [Blockchain, Ethereum] 
 tags: [] 
-math: true 
-mermaid: true 
+math: false
+mermaid: false
 --- 
 
 # 이더리움 메타마스크 프론트 연결 예제

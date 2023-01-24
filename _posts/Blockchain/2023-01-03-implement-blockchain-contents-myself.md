@@ -4,8 +4,8 @@ author: rito26
 date: 2023-01-03 22:33:23 +09:00 
 categories: [Blockchain] 
 tags: [] 
-math: true 
-mermaid: true 
+math: false
+mermaid: false
 --- 
 
 # NFT 마켓 만들기

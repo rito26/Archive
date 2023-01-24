@@ -4,8 +4,8 @@ author: rito26
 date: 2022-12-31 16:38:43 +09:00 
 categories: [Guitar, Tip] 
 tags: [] 
-math: true 
-mermaid: true 
+math: false
+mermaid: false
 --- 
 
 # 참고

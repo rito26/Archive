@@ -4,8 +4,8 @@ author: rito26
 date: 2023-01-03 21:12:23 +09:00 
 categories: [Blockchain] 
 tags: [] 
-math: true 
-mermaid: true 
+math: false
+mermaid: false
 --- 
 
 # 암호화폐 거래

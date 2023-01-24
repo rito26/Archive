@@ -4,8 +4,8 @@ author: rito26
 date: 2022-12-19 22:39:09 +09:00 
 categories: [Product Design] 
 tags: [] 
-math: true 
-mermaid: true 
+math: false
+mermaid: false
 --- 
  
 

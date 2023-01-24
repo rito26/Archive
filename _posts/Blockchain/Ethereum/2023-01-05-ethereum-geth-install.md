@@ -4,8 +4,8 @@ author: rito26
 date: 2023-01-05 22:22:22 +09:00 
 categories: [Blockchain, Ethereum] 
 tags: [] 
-math: true 
-mermaid: true 
+math: false
+mermaid: false
 --- 
 
 # Geth 설치

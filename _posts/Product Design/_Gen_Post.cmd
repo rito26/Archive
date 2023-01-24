@@ -41,8 +41,8 @@ echo.author: rito26 >> %strFileDir%
 echo.date: %date% %time:~0,8% +09:00 >> %strFileDir%
 echo.categories: [%strCat%] >> %strFileDir%
 echo.tags: [] >> %strFileDir%
-echo.math: true >> %strFileDir%
-echo.mermaid: true >> %strFileDir%
+echo.math: false >> %strFileDir%
+echo.mermaid: false >> %strFileDir%
 echo.--- >> %strFileDir%
 
 echo.>> %strFileDir%

@@ -4,8 +4,8 @@ author: rito26
 date: 2023-01-08 21:45:15 +09:00 
 categories: [Guitar, Sheet Music] 
 tags: [] 
-math: true 
-mermaid: true 
+math: false
+mermaid: false
 --- 
 
 # 악보
