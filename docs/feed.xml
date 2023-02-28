@@ -4,7 +4,7 @@
   <id>https://rito26.github.io/Archive/</id>
   <title>Archive</title>
   <subtitle>Archive</subtitle>
-  <updated>2023-01-24T19:47:31+09:00</updated>
+  <updated>2023-02-28T22:59:50+09:00</updated>
   <author>
     <name>Rito15</name>
     <uri>https://rito26.github.io/Archive/</uri>
@@ -20,11 +20,60 @@
 
   
   <entry>
+    <title>(TAB) A step you can't take back</title>
+    <link href="https://rito26.github.io/Archive/posts/tab-a-step-you-cant-take-back/" rel="alternate" type="text/html" title="(TAB) A step you can't take back" />
+    <published>2023-02-28T22:57:41+09:00</published>
+  
+    <updated>2023-02-28T22:57:41+09:00</updated>
+  
+    <id>https://rito26.github.io/Archive/posts/tab-a-step-you-cant-take-back/</id>
+    <content src="https://rito26.github.io/Archive/posts/tab-a-step-you-cant-take-back/" />
+    <author>
+      <name>Rito15</name>
+    </author>
+
+  
+    
+    <category term="Guitar" />
+    
+    <category term="Sheet Music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      악보
+
+
+
+
+
+
+References
+
+
+  https://tabs.ultimate-guitar.com/tab/misc-soundtrack/begin-again-a-step-you-cant-take-back-tabs-3722699
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>기타 연주 가능 곡 목록</title>
     <link href="https://rito26.github.io/Archive/posts/current-guitar-playable-list/" rel="alternate" type="text/html" title="기타 연주 가능 곡 목록" />
     <published>2023-01-24T19:17:38+09:00</published>
   
-    <updated>2023-01-24T19:46:42+09:00</updated>
+    <updated>2023-01-24T19:47:48+09:00</updated>
   
     <id>https://rito26.github.io/Archive/posts/current-guitar-playable-list/</id>
     <content src="https://rito26.github.io/Archive/posts/current-guitar-playable-list/" />
@@ -272,55 +321,6 @@ const web3 = new Web3(new Web3.pro...
 
   트랜잭션(Transactions)은 외부 소유 계정(EOA)에서 생성되어 이더리움 블록체인에 기록된 서명된 메시지다.
   트랜잭션을 통해서만 이더...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>(TAB) 검정치마 - 기다린만큼 더</title>
-    <link href="https://rito26.github.io/Archive/posts/tab-black-skirt-wait-more/" rel="alternate" type="text/html" title="(TAB) 검정치마 - 기다린만큼 더" />
-    <published>2023-01-08T21:45:15+09:00</published>
-  
-    <updated>2023-01-24T19:46:42+09:00</updated>
-  
-    <id>https://rito26.github.io/Archive/posts/tab-black-skirt-wait-more/</id>
-    <content src="https://rito26.github.io/Archive/posts/tab-black-skirt-wait-more/" />
-    <author>
-      <name>Rito15</name>
-    </author>
-
-  
-    
-    <category term="Guitar" />
-    
-    <category term="Sheet Music" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      악보
-
-
-
-
-
-
-References
-
-
-  https://www.youtube.com/watch?v=lVd06i-r7Lk
-  https://www.youtube.com/watch?v=x171oalkeAw
-
-
     </summary>
   
 
