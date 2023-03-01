@@ -22,7 +22,36 @@ mermaid: false
 
 <details>
 <summary markdown="span"> 
-...
+- 1 -
+</summary>
+
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230301_shelter-p01.png)
+
+</details>
+
+<details>
+<summary markdown="span"> 
+- 2 -
+</summary>
+
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230301_shelter-p02.png)
+
+</details>
+
+<details>
+<summary markdown="span"> 
+- 3 -
+</summary>
+
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230301_shelter-p03.png)
+
+</details>
+
+<br>
+
+<details>
+<summary markdown="span"> 
+Full
 </summary>
 
 ![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230301_shelter2.png)
