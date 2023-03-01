@@ -10,6 +10,7 @@ mermaid: false
 
 # 악보
 --- 
+- Capo 5
 
 ![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230228_a-step-you-cant-take-back.png)
 
