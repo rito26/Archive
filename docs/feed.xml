@@ -4,7 +4,7 @@
   <id>https://rito26.github.io/Archive/</id>
   <title>Archive</title>
   <subtitle>Archive</subtitle>
-  <updated>2023-03-02T00:42:44+09:00</updated>
+  <updated>2023-03-07T22:37:06+09:00</updated>
   <author>
     <name>Rito15</name>
     <uri>https://rito26.github.io/Archive/</uri>
@@ -20,11 +20,76 @@
 
   
   <entry>
+    <title>(TAB) 홍련화</title>
+    <link href="https://rito26.github.io/Archive/posts/tab-gurenge/" rel="alternate" type="text/html" title="(TAB) 홍련화" />
+    <published>2023-03-07T22:34:57+09:00</published>
+  
+    <updated>2023-03-07T22:34:57+09:00</updated>
+  
+    <id>https://rito26.github.io/Archive/posts/tab-gurenge/</id>
+    <content src="https://rito26.github.io/Archive/posts/tab-gurenge/" />
+    <author>
+      <name>Rito15</name>
+    </author>
+
+  
+    
+    <category term="Guitar" />
+    
+    <category term="Sheet Music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Video
+
+
+
+
+  
+
+
+Tab
+
+
+
+   
+- 1 -
+
+
+  
+
+
+
+
+   
+- 2 -
+
+
+  
+
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>(TAB) Shelter</title>
     <link href="https://rito26.github.io/Archive/posts/tab-shelter/" rel="alternate" type="text/html" title="(TAB) Shelter" />
     <published>2023-03-01T22:18:19+09:00</published>
   
-    <updated>2023-03-02T00:35:07+09:00</updated>
+    <updated>2023-03-02T00:42:52+09:00</updated>
   
     <id>https://rito26.github.io/Archive/posts/tab-shelter/</id>
     <content src="https://rito26.github.io/Archive/posts/tab-shelter/" />
@@ -317,66 +382,6 @@ References
 
 
 
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>이더리움 Web3js API 정리</title>
-    <link href="https://rito26.github.io/Archive/posts/ethereum-web3js-api/" rel="alternate" type="text/html" title="이더리움 Web3js API 정리" />
-    <published>2023-01-11T22:20:21+09:00</published>
-  
-    <updated>2023-01-24T19:46:42+09:00</updated>
-  
-    <id>https://rito26.github.io/Archive/posts/ethereum-web3js-api/</id>
-    <content src="https://rito26.github.io/Archive/posts/ethereum-web3js-api/" />
-    <author>
-      <name>Rito15</name>
-    </author>
-
-  
-    
-    <category term="Blockchain" />
-    
-    <category term="Ethereum" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      References
-
-
-  https://ihpark92.tistory.com/44
-  https://web3js.readthedocs.io/en/v1.8.1/index.html
-  https://www.jongho.dev/blockchain/ethereum-transaction/
-  https://steemit.com/kr/@brownbears/ethereum-account-transaction-message
-
-
-
-
-
-Web3 객체 생성
-
-
-  https://web3js.readthedocs.io/en/v1.8.1/web3.html#web3-instance
-
-
-
-  
-…
-
-
-  //const web3 = new Web3(provider);
-const web3 = new Web3(new Web3.pro...
     </summary>
   
 
