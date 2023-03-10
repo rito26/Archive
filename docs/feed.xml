@@ -4,7 +4,7 @@
   <id>https://rito26.github.io/Archive/</id>
   <title>Archive</title>
   <subtitle>Archive</subtitle>
-  <updated>2023-03-07T22:37:06+09:00</updated>
+  <updated>2023-03-11T00:21:15+09:00</updated>
   <author>
     <name>Rito15</name>
     <uri>https://rito26.github.io/Archive/</uri>
@@ -17,6 +17,70 @@
   <icon>/Archive/assets/img/favicons/favicon.ico</icon>
   <logo>/Archive/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>(TAB) Faded</title>
+    <link href="https://rito26.github.io/Archive/posts/tab-faded/" rel="alternate" type="text/html" title="(TAB) Faded" />
+    <published>2023-03-11T00:14:47+09:00</published>
+  
+    <updated>2023-03-11T00:14:47+09:00</updated>
+  
+    <id>https://rito26.github.io/Archive/posts/tab-faded/</id>
+    <content src="https://rito26.github.io/Archive/posts/tab-faded/" />
+    <author>
+      <name>Rito15</name>
+    </author>
+
+  
+    
+    <category term="Guitar" />
+    
+    <category term="Sheet Music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Video
+
+
+
+
+  
+
+
+Tab
+
+
+
+   
+- 1 -
+
+
+  
+
+
+
+
+   
+- 2 -
+
+
+  
+
+
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -335,48 +399,6 @@ References
 [1] 희곡(스파이 패밀리)
 
   앞부분
-
-
-
-
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>(TAB) 울면 안돼</title>
-    <link href="https://rito26.github.io/Archive/posts/tab-santa-claus-is-coming-to-town/" rel="alternate" type="text/html" title="(TAB) 울면 안돼" />
-    <published>2023-01-21T21:37:07+09:00</published>
-  
-    <updated>2023-01-24T19:46:42+09:00</updated>
-  
-    <id>https://rito26.github.io/Archive/posts/tab-santa-claus-is-coming-to-town/</id>
-    <content src="https://rito26.github.io/Archive/posts/tab-santa-claus-is-coming-to-town/" />
-    <author>
-      <name>Rito15</name>
-    </author>
-
-  
-    
-    <category term="Guitar" />
-    
-    <category term="Sheet Music" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      악보
-
 
 
 
