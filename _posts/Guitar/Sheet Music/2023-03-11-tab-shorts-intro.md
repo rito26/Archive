@@ -11,7 +11,7 @@ mermaid: false
 # Video
 --- 
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/___________' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/BEuy0Z9NZ5s' frameborder='0' allowfullscreen></iframe></div>
 
 
 # Tab
@@ -19,18 +19,46 @@ mermaid: false
 
 <details>
 <summary markdown="span"> 
-- 1 -
+(1) 위잉위잉 - 혁오
 </summary>
 
-![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/__________________.png)
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230311_shorts_01_위잉위잉.png)
 
 </details>
 
 <details>
 <summary markdown="span"> 
-- 2 -
+(2) 금요일에 만나요 - 아이유
 </summary>
 
-![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/__________________.png)
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230311_shorts_02_금요일에만나요.png)
 
 </details>
+
+<details>
+<summary markdown="span"> 
+(3) 블루밍 - 아이유
+</summary>
+
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230311_shorts_03_블루밍.png)
+
+</details>
+
+<details>
+<summary markdown="span"> 
+(4) 걱정말아요 그대 - 이적
+</summary>
+
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230311_shorts_04_걱정말아요그대.png)
+
+</details>
+
+<details>
+<summary markdown="span"> 
+(5) 아무노래 - 지코
+</summary>
+
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230311_shorts_05_아무노래.png)
+
+</details>
+
