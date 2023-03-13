@@ -1,5 +1,5 @@
 --- 
-title: (TAB) 짧은 인트로 5개 
+title: (TAB) 짧은 핑거스타일 모음
 author: rito26 
 date: 2023-03-11 21:33:25 +09:00 
 categories: [Guitar, Sheet Music] 
@@ -59,6 +59,15 @@ mermaid: false
 </summary>
 
 ![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230311_shorts_05_아무노래.png)
+
+</details>
+
+<details>
+<summary markdown="span"> 
+(6) Shape of You - Ed Sheeran
+</summary>
+
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230313_shape_of_you.png)
 
 </details>
 
