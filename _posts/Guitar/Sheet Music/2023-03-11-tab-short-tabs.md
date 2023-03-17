@@ -1,5 +1,5 @@
 --- 
-title: (TAB) 짧은 핑거스타일 모음
+title: (TAB) 짧은 가성비 타브 모음
 author: rito26 
 date: 2023-03-11 21:33:25 +09:00 
 categories: [Guitar, Sheet Music] 
@@ -38,7 +38,7 @@ mermaid: false
 
 <details>
 <summary markdown="span"> 
-(1) 위잉위잉 - 혁오
+[1] 위잉위잉 - 혁오
 </summary>
 
 ![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230311_shorts_01_위잉위잉.png)
@@ -47,7 +47,7 @@ mermaid: false
 
 <details>
 <summary markdown="span"> 
-(2) 금요일에 만나요 - 아이유
+[2] 금요일에 만나요 - 아이유
 </summary>
 
 ![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230311_shorts_02_금요일에만나요.png)
@@ -56,7 +56,7 @@ mermaid: false
 
 <details>
 <summary markdown="span"> 
-(3) 블루밍 - 아이유
+[3] 블루밍 - 아이유
 </summary>
 
 ![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230311_shorts_03_블루밍.png)
@@ -65,7 +65,7 @@ mermaid: false
 
 <details>
 <summary markdown="span"> 
-(4) 걱정말아요 그대 - 이적
+[4] 걱정말아요 그대 - 이적
 </summary>
 
 ![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230311_shorts_04_걱정말아요그대.png)
@@ -74,7 +74,7 @@ mermaid: false
 
 <details>
 <summary markdown="span"> 
-(5) 아무노래 - 지코
+[5] 아무노래 - 지코
 </summary>
 
 ![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230311_shorts_05_아무노래.png)
@@ -83,10 +83,19 @@ mermaid: false
 
 <details>
 <summary markdown="span"> 
-(6) Shape of You - Ed Sheeran
+[6] Shape of You - Ed Sheeran (3C)
 </summary>
 
 ![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230313_shape_of_you.png)
+
+</details>
+
+<details>
+<summary markdown="span"> 
+[7] 11:11 - 태연 (3C)
+</summary>
+
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230318_태연_1111.png)
 
 </details>
 
