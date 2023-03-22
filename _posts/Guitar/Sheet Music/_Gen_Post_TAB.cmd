@@ -60,7 +60,7 @@ echo.^<summary markdown="span"^> >> %strFileDir%
 echo.- 1 ->> %strFileDir%
 echo.^</summary^>>> %strFileDir%
 echo.>> %strFileDir%
-echo.![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/__________________.png)>> %strFileDir%
+echo.![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/$__________________$.png)>> %strFileDir%
 echo.>> %strFileDir%
 echo.^</details^>>> %strFileDir%
 echo.>> %strFileDir%
@@ -69,7 +69,7 @@ echo.^<summary markdown="span"^> >> %strFileDir%
 echo.- 2 ->> %strFileDir%
 echo.^</summary^>>> %strFileDir%
 echo.>> %strFileDir%
-echo.![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/__________________.png)>> %strFileDir%
+echo.![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/$__________________$.png)>> %strFileDir%
 echo.>> %strFileDir%
 echo.^</details^>>> %strFileDir%
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

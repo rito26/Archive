@@ -122,3 +122,25 @@ mermaid: false
 
 </details>
 
+<details>
+<summary markdown="span"> 
+[8] 손디아 - 어른 (2C)
+</summary>
+
+- <https://www.youtube.com/watch?v=Ae4CFAjv0O8>
+
+![image](https://raw.githubusercontent.com/rito26/Archive/main/_images/20230322_손디아_어른.png)
+
+
+```
+     Em7
+┌─-─┬─2─┬─4─┐
+├─-─┼─-─┼─3─┤
+├─-─┼─-─┼─-─┤
+├─-─┼─1─┼─-─┤
+├─-─┼─-─┼─-─┤
+└─-─┴─-─┴─-─┘
+```
+
+</details>
+
