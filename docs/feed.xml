@@ -4,7 +4,7 @@
   <id>https://rito26.github.io/Archive/</id>
   <title>Archive</title>
   <subtitle>Archive</subtitle>
-  <updated>2023-04-04T22:20:03+09:00</updated>
+  <updated>2023-04-05T22:55:56+09:00</updated>
   <author>
     <name>Rito15</name>
     <uri>https://rito26.github.io/Archive/</uri>
@@ -17,6 +17,114 @@
   <icon>/Archive/assets/img/favicons/favicon.ico</icon>
   <logo>/Archive/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>기타 팁 모음</title>
+    <link href="https://rito26.github.io/Archive/posts/guitar-tips-compilation/" rel="alternate" type="text/html" title="기타 팁 모음" />
+    <published>2023-04-05T21:58:10+09:00</published>
+  
+    <updated>2023-04-05T21:58:10+09:00</updated>
+  
+    <id>https://rito26.github.io/Archive/posts/guitar-tips-compilation/</id>
+    <content src="https://rito26.github.io/Archive/posts/guitar-tips-compilation/" />
+    <author>
+      <name>Rito15</name>
+    </author>
+
+  
+    
+    <category term="Guitar" />
+    
+    <category term="Tip" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      프렛
+
+
+
+   
+…..
+
+
+  
+
+  
+
+
+
+스케일
+
+
+
+   
+…..
+
+
+  
+
+  
+
+
+
+코드
+
+
+
+   
+…..
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+스케일 구성
+
+
+
+   
+…..
+
+
+  
+
+
+
+바디 종류
+
+
+
+   
+…..
+
+
+  
+
+
+
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -289,70 +397,6 @@ Tab
 
 Tab
 
-
-
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>(TAB) Faded</title>
-    <link href="https://rito26.github.io/Archive/posts/tab-faded/" rel="alternate" type="text/html" title="(TAB) Faded" />
-    <published>2023-03-11T00:14:47+09:00</published>
-  
-    <updated>2023-03-11T00:21:58+09:00</updated>
-  
-    <id>https://rito26.github.io/Archive/posts/tab-faded/</id>
-    <content src="https://rito26.github.io/Archive/posts/tab-faded/" />
-    <author>
-      <name>Rito15</name>
-    </author>
-
-  
-    
-    <category term="Guitar" />
-    
-    <category term="Sheet Music" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Video
-
-
-
-
-  
-
-
-Tab
-
-
-
-   
-- 1 -
-
-
-  
-
-
-
-
-   
-- 2 -
-
-
-  
 
 
 
